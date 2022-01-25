@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/[101]对称二叉树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[101]对称二叉树.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com101" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[101]对称二叉树.py" />
+              <option name="titleSlug" value="symmetric-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[104]二叉树的最大深度.py">
           <value>
             <LeetcodeEditor>
@@ -36,6 +47,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[1332]删除回文子序列.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1332]删除回文子序列.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1332" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[1332]删除回文子序列.py" />
+              <option name="titleSlug" value="remove-palindromic-subsequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[1345]跳跃游戏 IV.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1345]跳跃游戏 IV.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1345" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[1345]跳跃游戏 IV.py" />
+              <option name="titleSlug" value="jump-game-iv" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[141]环形链表.py">
           <value>
             <LeetcodeEditor>
@@ -58,6 +91,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[1688]比赛中的配对次数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1688]比赛中的配对次数.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1688" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[1688]比赛中的配对次数.py" />
+              <option name="titleSlug" value="count-of-matches-in-tournament" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[19]删除链表的倒数第 N 个结点.py">
           <value>
             <LeetcodeEditor>
@@ -77,6 +121,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[1]两数之和.py" />
               <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[2034]股票价格波动.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[2034]股票价格波动.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2034" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[2034]股票价格波动.py" />
+              <option name="titleSlug" value="stock-price-fluctuation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[2045]到达目的地的第二短时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[2045]到达目的地的第二短时间.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2045" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[2045]到达目的地的第二短时间.py" />
+              <option name="titleSlug" value="second-minimum-time-to-reach-destination" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -231,6 +297,39 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[539]最小时间差.py" />
               <option name="titleSlug" value="minimum-time-difference" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[5971]打折购买糖果的最小开销.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[5971]打折购买糖果的最小开销.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com5971" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[5971]打折购买糖果的最小开销.py" />
+              <option name="titleSlug" value="minimum-cost-of-buying-candies-with-discount" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[5972]统计隐藏数组数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[5972]统计隐藏数组数目.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com5972" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[5972]统计隐藏数组数目.py" />
+              <option name="titleSlug" value="count-the-hidden-sequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[5973]价格范围内最高排名的 K 样物品.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[5973]价格范围内最高排名的 K 样物品.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com5973" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[5973]价格范围内最高排名的 K 样物品.py" />
+              <option name="titleSlug" value="k-highest-ranked-items-within-a-price-range" />
             </LeetcodeEditor>
           </value>
         </entry>
