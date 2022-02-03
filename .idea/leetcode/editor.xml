@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[102]二叉树的层序遍历.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[102]二叉树的层序遍历.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com102" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[102]二叉树的层序遍历.py" />
+              <option name="titleSlug" value="binary-tree-level-order-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[104]二叉树的最大深度.py">
           <value>
             <LeetcodeEditor>
@@ -22,6 +33,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[104]二叉树的最大深度.py" />
               <option name="titleSlug" value="maximum-depth-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[108]将有序数组转换为二叉搜索树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[108]将有序数组转换为二叉搜索树.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com108" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[108]将有序数组转换为二叉搜索树.py" />
+              <option name="titleSlug" value="convert-sorted-array-to-binary-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -102,6 +124,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[1763]最长的美好子字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1763]最长的美好子字符串.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1763" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[1763]最长的美好子字符串.py" />
+              <option name="titleSlug" value="longest-nice-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[1765]地图中的最高点.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1765]地图中的最高点.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1765" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[1765]地图中的最高点.py" />
+              <option name="titleSlug" value="map-of-highest-peak" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[1996]游戏中弱角色的数量.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1996]游戏中弱角色的数量.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1996" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[1996]游戏中弱角色的数量.py" />
+              <option name="titleSlug" value="the-number-of-weak-characters-in-the-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[19]删除链表的倒数第 N 个结点.py">
           <value>
             <LeetcodeEditor>
@@ -121,6 +176,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[1]两数之和.py" />
               <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[2000]反转单词前缀.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[2000]反转单词前缀.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2000" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[2000]反转单词前缀.py" />
+              <option name="titleSlug" value="reverse-prefix-of-word" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[2013]检测正方形.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[2013]检测正方形.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2013" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[2013]检测正方形.py" />
+              <option name="titleSlug" value="detect-squares" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -209,6 +286,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[242]有效的字母异位词.py" />
               <option name="titleSlug" value="valid-anagram" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[278]第一个错误的版本.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[278]第一个错误的版本.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com278" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[278]第一个错误的版本.py" />
+              <option name="titleSlug" value="first-bad-version" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -333,6 +421,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[70]爬楼梯.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[70]爬楼梯.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com70" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[70]爬楼梯.py" />
+              <option name="titleSlug" value="climbing-stairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[7]整数反转.py">
           <value>
             <LeetcodeEditor>
@@ -341,6 +440,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[7]整数反转.py" />
               <option name="titleSlug" value="reverse-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[884]两句话中的不常见单词.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[884]两句话中的不常见单词.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com884" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[884]两句话中的不常见单词.py" />
+              <option name="titleSlug" value="uncommon-words-from-two-sentences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[88]合并两个有序数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[88]合并两个有序数组.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com88" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[88]合并两个有序数组.py" />
+              <option name="titleSlug" value="merge-sorted-array" />
             </LeetcodeEditor>
           </value>
         </entry>
