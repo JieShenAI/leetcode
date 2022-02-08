@@ -55,16 +55,53 @@
 #  Related Topics 数组 哈希表 👍 54 👎 0
 from collections import Counter
 from typing import List
+
+
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def gridIllumination(self, n: int, lamps: List[List[int]], queries: List[List[int]]) -> List[int]:
         # 统计灯的位置
         lamps_set = set()
+        row = Counter()
+        col = Counter()
+        diagonal = Counter()  # x-y
+        anti_diagonal = Counter()  # x+y
+        for lamp in lamps:
+            if tuple(lamp) in lamps_set:
+                continue
+            x = lamp[0]
+            y = lamp[1]
+            lamps_set.add(tuple(lamp))
+            row[x] += 1
+            col[y] += 1
+            diagonal[x - y] += 1
+            anti_diagonal[x + y] += 1
 
+        ans = [0] * len(queries)
+        # query
+        for idx, (q_x, q_y) in enumerate(queries):
+            if row[q_x] or col[q_y] or diagonal[q_x - q_y] or anti_diagonal[q_x + q_y]:
+                # print("light: ", lamps_set)
+                # print(row[q_x], col[q_y], diagonal[q_x - q_y], anti_diagonal[q_x + q_y])
+                ans[idx] = 1
+            # 检查周围8个各自是否有lamp
+            for i in range(q_x - 1, q_x + 2):
+                for j in range(q_y - 1, q_y + 2):
+                    q_lamp = (i, j)
+                    if 0 <= i < n and 0 <= j < n and q_lamp in lamps_set:
+                        lamps_set.remove(q_lamp)
+                        row[i] -= 1
+                        col[j] -= 1
+                        diagonal[i - j] -= 1
+                        anti_diagonal[i + j] -= 1
+        # print("lamps:", lamps_set)
+        return ans
 
 
 # leetcode submit region end(Prohibit modification and deletion)
 if __name__ == '__main__':
-    a = Counter()
-    a['a'] = 1
-    print(a)
+    n = 6
+    lamps = [[2, 5], [4, 2], [0, 3], [0, 5], [1, 4], [4, 2], [3, 3], [1, 0]]
+    queries = [[4, 3], [3, 1], [5, 3], [0, 5], [4, 4], [3, 3]]
+    illumination = Solution().gridIllumination(n, lamps, queries)
+    print(illumination)
