@@ -58,7 +58,10 @@ from typing import List
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def gridIllumination(self, n: int, lamps: List[List[int]], queries: List[List[int]]) -> List[int]:
-        pass
+        # 统计灯的位置
+        lamps_set = set()
+
+
 
 # leetcode submit region end(Prohibit modification and deletion)
 if __name__ == '__main__':
