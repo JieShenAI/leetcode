@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/[1001]网格照明.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1001]网格照明.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1001" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[1001]网格照明.py" />
+              <option name="titleSlug" value="grid-illumination" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[101]对称二叉树.py">
           <value>
             <LeetcodeEditor>
@@ -44,6 +55,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[108]将有序数组转换为二叉搜索树.py" />
               <option name="titleSlug" value="convert-sorted-array-to-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[1219]黄金矿工.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1219]黄金矿工.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1219" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[1219]黄金矿工.py" />
+              <option name="titleSlug" value="path-with-maximum-gold" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[121]买卖股票的最佳时机.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[121]买卖股票的最佳时机.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com121" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[121]买卖股票的最佳时机.py" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -91,6 +124,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[1405]最长快乐字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1405]最长快乐字符串.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1405" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[1405]最长快乐字符串.py" />
+              <option name="titleSlug" value="longest-happy-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[141]环形链表.py">
           <value>
             <LeetcodeEditor>
@@ -124,6 +168,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[1725]可以形成最大正方形的矩形数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[1725]可以形成最大正方形的矩形数目.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1725" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[1725]可以形成最大正方形的矩形数目.py" />
+              <option name="titleSlug" value="number-of-rectangles-that-can-form-the-largest-square" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[1763]最长的美好子字符串.py">
           <value>
             <LeetcodeEditor>
@@ -143,6 +198,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[1765]地图中的最高点.py" />
               <option name="titleSlug" value="map-of-highest-peak" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[198]打家劫舍.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[198]打家劫舍.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com198" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[198]打家劫舍.py" />
+              <option name="titleSlug" value="house-robber" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -234,6 +300,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[213]打家劫舍 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[213]打家劫舍 II.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com213" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[213]打家劫舍 II.py" />
+              <option name="titleSlug" value="house-robber-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[219]存在重复元素 II.py">
           <value>
             <LeetcodeEditor>
@@ -322,6 +399,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[337]打家劫舍 III.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[337]打家劫舍 III.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com337" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[337]打家劫舍 III.py" />
+              <option name="titleSlug" value="house-robber-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[344]反转字符串.py">
           <value>
             <LeetcodeEditor>
@@ -385,6 +473,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[539]最小时间差.py" />
               <option name="titleSlug" value="minimum-time-difference" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[53]最大子数组和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[53]最大子数组和.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com53" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[53]最大子数组和.py" />
+              <option name="titleSlug" value="maximum-subarray" />
             </LeetcodeEditor>
           </value>
         </entry>
