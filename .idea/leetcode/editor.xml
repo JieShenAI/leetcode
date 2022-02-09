@@ -256,6 +256,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[2006]差的绝对值为 K 的数对数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[2006]差的绝对值为 K 的数对数目.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2006" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[2006]差的绝对值为 K 的数对数目.py" />
+              <option name="titleSlug" value="count-number-of-pairs-with-absolute-difference-k" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[2013]检测正方形.py">
           <value>
             <LeetcodeEditor>
@@ -429,6 +440,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/[36]有效的数独.py" />
               <option name="titleSlug" value="valid-sudoku" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[384]打乱数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[384]打乱数组.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com384" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/[384]打乱数组.py" />
+              <option name="titleSlug" value="shuffle-an-array" />
             </LeetcodeEditor>
           </value>
         </entry>
