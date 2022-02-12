@@ -4,4 +4,4 @@
 
 jshen.generate_grid(m, n, range_values=[0, 1]) -> List[List[int]] 
 
-随机生成二维数据的测试数据
+随机生成二维数组的测试数据
