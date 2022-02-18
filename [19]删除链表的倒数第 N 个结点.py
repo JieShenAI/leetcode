@@ -42,7 +42,7 @@
 # Definition for singly-linked list.
 
 
-from com.jieshen.ListNode import BuildTree, ListNode, print_node
+from jieshen.ListNode import BuildTree, ListNode, print_node
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

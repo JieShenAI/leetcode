@@ -1,42 +1,48 @@
-<p>Given an array of <strong>distinct</strong> integers <code>candidates</code> and a target integer <code>target</code>, return <em>a list of all <strong>unique combinations</strong> of </em><code>candidates</code><em> where the chosen numbers sum to </em><code>target</code><em>.</em> You may return the combinations in <strong>any order</strong>.</p>
-
-<p>The <strong>same</strong> number may be chosen from <code>candidates</code> an <strong>unlimited number of times</strong>. Two combinations are unique if the frequency of at least one of the chosen numbers is different.</p>
-
-<p>It is <strong>guaranteed</strong> that the number of unique combinations that sum up to <code>target</code> is less than <code>150</code> combinations for the given input.</p>
-
-<p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
-
-<pre>
-<strong>Input:</strong> candidates = [2,3,6,7], target = 7
-<strong>Output:</strong> [[2,2,3],[7]]
-<strong>Explanation:</strong>
-2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
-7 is a candidate, and 7 = 7.
-These are the only two combinations.
-</pre>
-
-<p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> candidates = [2,3,5], target = 8
-<strong>Output:</strong> [[2,2,2,2],[2,3,3],[3,5]]
-</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> candidates = [2], target = 1
-<strong>Output:</strong> []
-</pre>
-
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
-
-<ul>
-	<li><code>1 &lt;= candidates.length &lt;= 30</code></li>
-	<li><code>1 &lt;= candidates[i] &lt;= 200</code></li>
-	<li>All elements of <code>candidates</code> are <strong>distinct</strong>.</li>
-	<li><code>1 &lt;= target &lt;= 500</code></li>
-</ul>
-<div><div>Related Topics</div><div><li>Array</li><li>Backtracking</li></div></div><br><div><li>👍 9140</li><li>👎 207</li></div>
+# Given an array of distinct integers candidates and a target integer target, 
+# return a list of all unique combinations of candidates where the chosen numbers 
+# sum to target. You may return the combinations in any order. 
+# 
+#  The same number may be chosen from candidates an unlimited number of times. 
+# Two combinations are unique if the frequency of at least one of the chosen 
+# numbers is different. 
+# 
+#  It is guaranteed that the number of unique combinations that sum up to 
+# target is less than 150 combinations for the given input. 
+# 
+#  
+#  Example 1: 
+# 
+#  
+# Input: candidates = [2,3,6,7], target = 7
+# Output: [[2,2,3],[7]]
+# Explanation:
+# 2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple 
+# times.
+# 7 is a candidate, and 7 = 7.
+# These are the only two combinations.
+#  
+# 
+#  Example 2: 
+# 
+#  
+# Input: candidates = [2,3,5], target = 8
+# Output: [[2,2,2,2],[2,3,3],[3,5]]
+#  
+# 
+#  Example 3: 
+# 
+#  
+# Input: candidates = [2], target = 1
+# Output: []
+#  
+# 
+#  
+#  Constraints: 
+# 
+#  
+#  1 <= candidates.length <= 30 
+#  1 <= candidates[i] <= 200 
+#  All elements of candidates are distinct. 
+#  1 <= target <= 500 
+#  
+#  Related Topics Array Backtracking 👍 9140 👎 207

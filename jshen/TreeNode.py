@@ -12,13 +12,12 @@ class TreeNode:
         self.right = right
 
 
-def build_by_order(arr: List[int]) -> TreeNode:
+def build_by_order():
     """
     按顺序添加左右孩子
     :return:
     """
     pass
-
 
 
 def sortedArrayToBST(nums: List[int]):
