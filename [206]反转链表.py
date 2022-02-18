@@ -40,7 +40,7 @@
 #  
 #  Related Topics 递归 链表 👍 2208 👎 0
 
-from com.jieshen.ListNode import *
+from jieshen.ListNode import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

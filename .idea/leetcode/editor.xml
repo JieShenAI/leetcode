@@ -454,6 +454,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[39]Combination Sum.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[39]Combination Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com39" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/[39]Combination Sum.py" />
+              <option name="titleSlug" value="combination-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[402]Remove K Digits.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/doc/content/[402]Remove K Digits.md" />
+              <option name="frontendQuestionId" value="leetcode.com402" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/[402]Remove K Digits.py" />
+              <option name="titleSlug" value="remove-k-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[48]旋转图像.py">
           <value>
             <LeetcodeEditor>
