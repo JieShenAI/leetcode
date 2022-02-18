@@ -84,5 +84,3 @@ class Solution:
                 del path[-1]
             else:
                 break
-
-# leetcode submit region end(Prohibit modification and deletion)
